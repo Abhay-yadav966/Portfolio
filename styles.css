@@ -435,7 +435,7 @@ a{
 .project-card{
     max-width: 90%;
     height: 550px;
-    background-image: url(images/projects/Project1.png);
+    background-image: url(images/projects/project1.png);
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
