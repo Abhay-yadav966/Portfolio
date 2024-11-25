@@ -890,6 +890,10 @@ footer{
     color: black;
 }
 
+.icon-heading{
+    color: #E84949;
+}
+
 @media (max-width:1300px){
     .footer-wraper{
         flex-direction: column;
